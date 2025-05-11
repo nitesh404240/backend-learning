@@ -1,3 +1,3 @@
 # backend-learning
 
-nitesh choudhar
+nitesh choudhary
